@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 siin on minu haru
+>>>>>>> b90ba9e6e2c5844fdf7c98bf89f6c2abff4747d3
